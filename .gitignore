@@ -1,0 +1,9 @@
+# Confidential client documents - never publish.
+# GitHub Pages serves every committed file publicly.
+*.pdf
+GATE*
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
